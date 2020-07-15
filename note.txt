@@ -1,0 +1,9 @@
+db info:
+db name: newDatabase
+db username: root
+password: 
+host: localhost
+
+admmin info:
+username: admin
+pass: Teamstartup3
